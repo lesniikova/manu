@@ -1,0 +1,18 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Menu API",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "/user-service"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Users and Comments",
+      "description": ""
+    }
+  ]
+}
